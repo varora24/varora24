@@ -2,15 +2,13 @@
 
 ## I am an international student who loves to play around with new ideas to learn !!
 
-- 🔭 I just made my first app: [KeyNotes][app]!
+- 🔭 I just made my first Android App: [KeyNotes][app]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to network and meet other developers to learn more 
 - 🥅 2020 Goals: Not get COVID-19
 - ⚡ Fun fact: I am a huge foodie and I love travelling [Current Adventure Goal][travel]
 
-### Current Playlist 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DWTLSN7iG21yC?si=oQnFRsC6SNSNOgn-or9iQw)
+### Current Playlist [spotify] 🎧
 
 ### Connect with me:
 
@@ -42,4 +40,4 @@
 [facebook]: https://twitter.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-
+[spotify]: https://open.spotify.com/playlist/37i9dQZF1DWTLSN7iG21yC?si=oQnFRsC6SNSNOgn-or9iQw
