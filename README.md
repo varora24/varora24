@@ -1,7 +1,5 @@
 ### Hi there, I'm Vaibhav Arora [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/varora24/)
-
 ## I am an international student who loves to play around with new ideas to learn !!
 
 - 🔭 I just made my first app: [KeyNotes][app]!
