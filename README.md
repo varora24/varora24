@@ -22,13 +22,11 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [5 GHz vs 2.4 GHz - Wifi Comparison](https://www.techdumb.net/post/2-4-vs-5-ghz-whats-the-difference)
 - [Alexa, is Siri better?](https://www.techdumb.net/post/alexa-is-siri-better)
 - [Best video calling software](https://www.techdumb.net/post/which-is-the-best-video-calling-software)
 - [On Cloud Drive](https://www.techdumb.net/post/on-cloud-drive)
 - [Mid Range Phones are new Flagships](https://www.techdumb.net/post/mid-range-phones-are-the-new-flagships)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.techdumb.net/)
 
