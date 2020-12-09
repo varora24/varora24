@@ -1,4 +1,4 @@
-# Hi there, I'm Vaibhav Arora [website] 👋
+# Hi there, I'm [Vaibhav Arora][website] 👋
 
 ## Occupation: 
 Computer Engineering Student @[University of Notre Dame][nd] <br />
