@@ -1,20 +1,30 @@
-### Hi there, I'm Vaibhav Arora [website] 👋
+# Hi there, I'm Vaibhav Arora [website] 👋
 
-## Occupation: Computer Engineering Student @[University of Notre Dame][nd]
+## Occupation: 
+Computer Engineering Student @[University of Notre Dame][nd] <br />
+Founder and Chief Executive Officer @[TechDumb][techdumb]
 
-## About me
+## About:
 - 🔭 I just made my first Android App: [KeyNotes][app]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to network and meet other developers to make connections and to grow my network
 - 🥅 2020 Goals: Not get COVID-19
 - ⚡ Fun fact: I am a huge foodie and I love travelling [Current Adventure Goal][travel]
 
-### Current Playlist [spotify] 🎧
+## Languages:
+- Python
+- Android Studio
+- C
+- C++
+- Java
+- Matlab
 
-### Connect with me:
+## Current Playlist [spotify] 🎧
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Connect with me:
+
+[<img align="left" alt="Vaibhav Arora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Vaibhav Arora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -31,11 +41,11 @@
 ➡️ [more blog posts...](https://www.techdumb.net/)
 
 ---
+[techdumb]: https://www.techdumb.net/
 [nd]: https://www.nd.edu/
 [website]: https://linktr.ee/varora
 [app]: https://play.google.com/store/apps/details?id=harmoniousmadness.harmoniousmadness.simplenotepad&hl=en_US&gl=US
 [travel]: https://www.wisegeek.com/what-is-skydiving.htm
-[facebook]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/vaibhav_arora24
+[linkedin]: https://linkedin.com/in/varora24
 [spotify]: https://open.spotify.com/playlist/37i9dQZF1DWTLSN7iG21yC?si=oQnFRsC6SNSNOgn-or9iQw
