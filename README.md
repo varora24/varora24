@@ -2,7 +2,7 @@
 
 ## Occupation: 
 Computer Engineering Student @[University of Notre Dame][nd] <br />
-Founder and Chief Executive Officer @[TechDumb][techdumb]
+Founder and Chief Technology Officer @[TechDumb][techdumb]
 
 ## About:
 - 🔭 I just made my first Android App: [KeyNotes][app]!
