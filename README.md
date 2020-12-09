@@ -1,10 +1,11 @@
 ### Hi there, I'm Vaibhav Arora [website] 👋
 
-## I am an international student who loves to play around with new ideas to learn !!
+## Occupation: Computer Engineering Student @[University of Notre Dame][nd]
 
+## About me
 - 🔭 I just made my first Android App: [KeyNotes][app]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to network and meet other developers to learn more 
+- 👯 I’m looking to network and meet other developers to make connections and to grow my network
 - 🥅 2020 Goals: Not get COVID-19
 - ⚡ Fun fact: I am a huge foodie and I love travelling [Current Adventure Goal][travel]
 
@@ -27,11 +28,10 @@
 - [Best video calling software](https://www.techdumb.net/post/which-is-the-best-video-calling-software)
 - [On Cloud Drive](https://www.techdumb.net/post/on-cloud-drive)
 - [Mid Range Phones are new Flagships](https://www.techdumb.net/post/mid-range-phones-are-the-new-flagships)
-
 ➡️ [more blog posts...](https://www.techdumb.net/)
 
 ---
-
+[nd]: https://www.nd.edu/
 [website]: https://linktr.ee/varora
 [app]: https://play.google.com/store/apps/details?id=harmoniousmadness.harmoniousmadness.simplenotepad&hl=en_US&gl=US
 [travel]: https://www.wisegeek.com/what-is-skydiving.htm
