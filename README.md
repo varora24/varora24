@@ -23,8 +23,7 @@ Founder and Chief Technology Officer @[TechDumb][techdumb]
 
 ## Connect with me:
 
-[<img align="left" alt="Vaibhav Arora | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vaibhav Arora | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vaibhav Arora | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
 
 <br />
 <br />
