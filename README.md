@@ -1,4 +1,4 @@
-# Hi there, I'm [Vaibhav Arora][website] 👋
+# Hi there, I'm [Vaibhav Arora][linkedin] 👋
 
 ## Occupation: 
 Computer Engineering Student @[University of Notre Dame][nd] <br />
@@ -7,28 +7,24 @@ Computer Engineering Student @[University of Notre Dame][nd] <br />
 - 🔭 I just made my first Android App: [KeyNotes][app]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to network and meet other developers to make connections and to grow my network
-- 🥅 2020 Goals: Not get COVID-19
+- 🥅 2021 Goals: Learn Flutter
 - ⚡ Fun fact: I am a huge foodie and I love travelling [Current Adventure Goal][travel]
 
 ## Languages:
-- Python
-- Android Studio
-- C
-- C++
-- Java
-- Matlab
+- Python (3 years)
+- Android Studio (2 years)
+- C (2 years)
+- C++ (1 year)
+- Java (2 years)
+- Matlab (1 year)
+- HTML (1 year)
 
 ## Current Playlist [spotify] 🎧
 
 ## Connect with me:
-
 [<img align="left" alt="Vaibhav Arora | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
-
 <br />
-<br />
-
 ---
-
 ### 📕 Latest Blog Posts
 
 - [5 GHz vs 2.4 GHz - Wifi Comparison](https://www.techdumb.net/post/2-4-vs-5-ghz-whats-the-difference)
