@@ -17,7 +17,9 @@ Computer Engineering Student @[University of Notre Dame][nd] <br />
 - C++ (1 year)
 - Java (2 years)
 - Matlab (1 year)
-- HTML (1 year)
+- HTML & CSS (2 year)
+- Javascript (1 year)
+- SQL & MySQL (6 months)
 
 ## Current Playlist [spotify] 🎧
 
