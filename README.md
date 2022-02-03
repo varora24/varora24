@@ -1,4 +1,4 @@
-# Hi there, I'm [Vaibhav Arora][linkedin] 👋
+# Hi there, I'm [Vaibhav Arora][personalwebsite] 👋
 
 ## Occupation: 
 Computer Engineering Student @[University of Notre Dame][nd] <br />
@@ -40,9 +40,10 @@ Computer Engineering Student @[University of Notre Dame][nd] <br />
 ➡️ [more blog posts...](https://www.techdumb.net/)
 
 ---
+[personalwebsite]: https://vaibhavarora.net/
 [techdumb]: https://www.techdumb.net/
 [nd]: https://www.nd.edu/
-[website]: https://linktr.ee/varora
+[website]: https://varora24.github.io
 [app]: https://play.google.com/store/apps/details?id=harmoniousmadness.harmoniousmadness.simplenotepad&hl=en_US&gl=US
 [travel]: https://www.wisegeek.com/what-is-skydiving.htm
 [instagram]: https://instagram.com/vaibhav_arora24
