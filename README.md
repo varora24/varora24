@@ -21,6 +21,9 @@ Computer Engineering Student @[University of Notre Dame][nd] <br />
 - Javascript (1 year)
 - SQL & MySQL (6 months)
 
+## GitHub Stats
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=varora24)
+
 ## Current Playlist [spotify] 🎧
 
 ## Connect with me:
