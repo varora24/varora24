@@ -21,9 +21,6 @@ Computer Engineering Student @[University of Notre Dame][nd] <br />
 - Javascript (1 year)
 - SQL & MySQL (6 months)
 
-## GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=varora24)
-
 ## Current Playlist [spotify] 🎧
 
 ## Connect with me:
@@ -39,6 +36,11 @@ Computer Engineering Student @[University of Notre Dame][nd] <br />
 - [Mid Range Phones are new Flagships](https://www.techdumb.net/post/mid-range-phones-are-the-new-flagships)
 ➡️ [more blog posts...](https://www.techdumb.net/)
 
+## GitHub Stats
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=varora24&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varora24&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varora24&theme=dark)](https://github.com/varora24/github-readme-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/varora24/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 ---
 [personalwebsite]: https://vaibhavarora.net/
 [techdumb]: https://www.techdumb.net/
