@@ -1,7 +1,7 @@
 # Hi there, I'm [Vaibhav Arora][personalwebsite] 👋
 
 ## Occupation: 
-Computer Engineering Student @[University of Notre Dame][nd] <br />
+Product Manager @[University of Notre Dame][nd] <br />
 
 ## About:
 - 🔭 I just made my first Android App: [KeyNotes][app]!
